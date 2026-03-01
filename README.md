@@ -2,6 +2,8 @@
 
 We had a empty TV screen, so I decided to make a advertisement to help with resturant performance.
 
+I've also designed a new flyer because the old new was outdated.
+
 
 
 ## 📸 Image
