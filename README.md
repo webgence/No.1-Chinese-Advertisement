@@ -17,3 +17,4 @@ I've also designed a new flyer because the old flyer was outdated.
 - Canva
 - Python
 - A whole alot of Googling
+- Video Editing Software
